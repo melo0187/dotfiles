@@ -70,7 +70,7 @@ source $ZSH/oh-my-zsh.sh
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
-# Setup default user for agnoster theme
+# Setup default user for themes to omit it
 export DEFAULT_USER=`whoami`
 
 # You may need to manually set your language environment
