@@ -1,0 +1,5 @@
+[user]
+	email = carmelo.scollo@gmail.com
+	name = Carmelo Scollo
+[credential]
+	helper = /usr/share/doc/git/contrib/credential/libsecret/git-credential-libsecret
