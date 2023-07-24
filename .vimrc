@@ -29,3 +29,8 @@ if has('gui_running')
   syntax enable
 endif
 
+let mapleader = " "
+
+noremap <Leader>y "+y
+noremap <Leader>P "+P
+noremap <Leader>p "+p
